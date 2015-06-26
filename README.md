@@ -1,4 +1,4 @@
-# AndroidPeripheralTest
+# Android Peripheral Test
 Test peripheral mode on Android device. Peripheral lets a Android device act as a beacon.
 
 # Requirements
